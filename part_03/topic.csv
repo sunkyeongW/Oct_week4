@@ -1,0 +1,5 @@
+"id";"title";"description";"created";"author_id"
+1;"MySQL";"MySQL is ...";"2022-10-23 00:00:00";1
+2;"Oracle";"Oracle is ...";"2022-10-23 00:00:00";1
+3;"SQL Server";"SQL Server is ...";"2022-10-23 00:00:00";2
+4;"PostgreSQL";"PostgreSQL is ...";"2022-10-23 00:00:00";3
